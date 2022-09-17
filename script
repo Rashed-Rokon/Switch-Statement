@@ -1,0 +1,27 @@
+var day= "Monday";
+switch (day){
+    case 'Monday':
+    console.log("Can the world just die!");
+    break;
+        case 'Tuesday':
+    console.log("Aaah! Not again!");
+    break;
+        case 'Wednesday':
+    console.log("Friday, when will you show up!");
+    break;
+        case 'Thursday':
+    console.log("Just one more day, hold on!");
+    break;
+        case 'Friday':
+    console.log("YES! YES! weekend at last!");
+    break;
+        case 'Saturday':
+    console.log("Don't do anything, just be lazy!");
+    break;
+        case 'Sunday':
+    console.log("Enjoy the last few hours of your freedom!");
+    break;
+        default:
+    console.log("There is no such day");
+    break;
+}
